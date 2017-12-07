@@ -9,6 +9,7 @@ This collection of problems was originally distributed at the ASEE Chemical Engi
 * Matlab
 * Maple
 * Mathematica
+* Mathcad
 
 The codes by Prof. Cutlip can be downloaded from [Polymath Software Page](http://polymath-software.com/ASEE/index.htm).
 
