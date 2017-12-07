@@ -31,5 +31,6 @@ To solve these problems basic numerical methods are used. These are:
 * Simultaneous differential and algebraic equations (DAE)
 
 ## What is this repository?
-This repository solves the collection of ten problems (in brief TenProbsInChE) using Python, Fortran and Matlab. The codes presented here are clean and simple implementation with pedagogical purpose in mind.
+This repository introduces the solution to the collection of ten problems (in brief TenProbsInChE) using Python, Fortran and Matlab. The codes presented here are clean and simple implementation with pedagogical purpose in mind.
+Each folder contains the codes in dedicated programming language.
 
